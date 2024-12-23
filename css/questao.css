@@ -1,0 +1,30 @@
+.questao__input {
+  display: flex;
+  margin-bottom: 1rem;
+}
+
+.questao {
+  padding-top: 3rem;
+}
+
+.questao__text {
+  margin-bottom: 1rem;
+}
+
+.questao__resposta {
+  display: flex;
+}
+
+.questao__resposta__title {
+  margin-bottom: 0.5rem;
+}
+
+.questao__resposta__text {
+  margin-left: 1rem;
+}
+
+.questao__span {
+  display: flex;
+  margin: 10px;
+  color: rgb(56, 70, 71);
+}
